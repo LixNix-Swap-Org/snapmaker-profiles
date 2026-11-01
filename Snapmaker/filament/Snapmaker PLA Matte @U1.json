@@ -13,6 +13,7 @@
         "100"
     ],
     "complete_print_exhaust_fan_speed": [
+        "70",
         "70"
     ],
     "cool_plate_temp": [
@@ -22,9 +23,13 @@
         "60"
     ],
     "during_print_exhaust_fan_speed": [
+        "70",
         "70"
     ],
-    "enable_pressure_advance": ["0", "1"],
+    "enable_pressure_advance": [
+        "0",
+        "1"
+    ],
     "eng_plate_temp": [
         "60"
     ],
@@ -76,6 +81,7 @@
         "15"
     ],
     "filament_multitool_ramming": [
+        "1",
         "1"
     ],
     "filament_multitool_ramming_flow": [
@@ -91,6 +97,7 @@
         "1"
     ],
     "filament_retraction_speed": [
+        "nil",
         "nil"
     ],
     "filament_stamping_distance": [
@@ -143,7 +150,10 @@
     "pellet_flow_coefficient": [
         "0.4157"
     ],
-    "pressure_advance": ["0.02", "0.024"],
+    "pressure_advance": [
+        "0.02",
+        "0.024"
+    ],
     "required_nozzle_HRC": [
         "0"
     ],
@@ -172,7 +182,14 @@
     "graphic_effect_plate_temp_initial_layer": [
         "65"
     ],
-    "filament_flow_support": ["standard", "high_flow"],
+    "filament_flow_support": [
+        "standard",
+        "high_flow"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
     "supertack_plate_temp": [
         "40"
     ],
@@ -192,6 +209,7 @@
         "2"
     ],
     "activate_air_filtration": [
+        "0",
         "0"
     ],
     "activate_chamber_temp_control": [
@@ -231,6 +249,7 @@
         "100"
     ],
     "filament_deretraction_speed": [
+        "nil",
         "nil"
     ],
     "filament_diameter": [
@@ -243,6 +262,7 @@
         "0"
     ],
     "filament_long_retractions_when_cut": [
+        "nil",
         "nil"
     ],
     "filament_notes": [
@@ -252,30 +272,39 @@
         "120 100 6.6 6.8 7.2 7.6 7.9 8.2 8.7 9.4 9.9 10.0| 0.05 6.6 0.45 6.8 0.95 7.8 1.45 8.3 1.95 9.7 2.45 10 2.95 7.6 3.45 7.6 3.95 7.6 4.45 7.6 4.95 7.6"
     ],
     "filament_retract_before_wipe": [
+        "nil",
         "nil"
     ],
     "filament_retract_lift_above": [
+        "nil",
         "nil"
     ],
     "filament_retract_lift_below": [
+        "nil",
         "nil"
     ],
     "filament_retract_lift_enforce": [
+        "nil",
         "nil"
     ],
     "filament_retract_restart_extra": [
+        "nil",
         "nil"
     ],
     "filament_retract_restart_extra_toolchange": [
+        "nil",
         "nil"
     ],
     "filament_retract_when_changing_layer": [
+        "nil",
         "nil"
     ],
     "filament_retraction_distances_when_cut": [
+        "nil",
         "nil"
     ],
     "filament_retraction_minimum_travel": [
+        "nil",
         "nil"
     ],
     "filament_shrink": [
@@ -297,9 +326,11 @@
         "PLA"
     ],
     "filament_wipe": [
+        "nil",
         "nil"
     ],
     "filament_z_hop": [
+        "nil",
         "nil"
     ],
     "full_fan_speed_layer": [

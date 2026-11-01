@@ -9,16 +9,23 @@
         "Snapmaker U1 (0.4 nozzle)"
     ],
     "enable_pressure_advance": [
+        "1",
         "1"
     ],
     "filament_flow_ratio": [
+        "0.97",
         "0.97"
     ],
-    "filament_max_volumetric_speed": ["18", "20"],
+    "filament_max_volumetric_speed": [
+        "18",
+        "20"
+    ],
     "filament_multitool_ramming_flow": [
+        "40",
         "40"
     ],
     "filament_retraction_length": [
+        "0.6",
         "0.6"
     ],
     "pressure_advance": ["0.025", "0.024"],
@@ -31,10 +38,21 @@
         "40"
     ],
     "additional_cooling_fan_speed": [
+        "70",
         "70"
     ],
-    "filament_flow_support": ["standard", "high_flow"],
-    "filament_z_hop_types": ["nil", "Auto Lift"],
+    "filament_flow_support": [
+        "standard",
+        "high_flow"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_z_hop_types": [
+        "nil",
+        "Auto Lift"
+    ],
     "pellet_flow_coefficient": [
         "0.4157"
     ],
