@@ -306,5 +306,9 @@
         "35"
     ],
     "version": "0.0.0.0",
-    "renamed_from": "Snapmaker TPU 90A @U1"
+    "renamed_from": "Snapmaker TPU 90A @U1",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ]
 }

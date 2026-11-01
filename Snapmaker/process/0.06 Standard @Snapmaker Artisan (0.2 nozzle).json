@@ -25,5 +25,7 @@
   "wall_loops": "4",
   "initial_layer_infill_speed": "70",
   "initial_layer_speed": "40",
-  "inner_wall_speed": "150"
+  "inner_wall_speed": "150",
+  "max_bridge_length": "0",
+  "raft_first_layer_expansion": "-1"
 }

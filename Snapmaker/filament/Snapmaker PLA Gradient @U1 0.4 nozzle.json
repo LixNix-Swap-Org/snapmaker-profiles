@@ -44,5 +44,9 @@
   "filament_wipe_distance": ["nil","nil"],
   "filament_z_hop_types": ["Auto Lift","Auto Lift"],
   "enable_pressure_advance": ["0","1"],
-  "filament_flow_support": ["standard","high_flow"]
+  "filament_flow_support": ["standard","high_flow"],
+  "filament_extruder_variant": [
+    "Direct Drive Standard",
+    "Direct Drive High Flow"
+  ]
 }

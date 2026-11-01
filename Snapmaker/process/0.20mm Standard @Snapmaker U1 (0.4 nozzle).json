@@ -40,5 +40,13 @@
     "outer_wall_speed": ["200", "500"],
     "internal_solid_infill_speed": ["250", "600"],
     "sparse_infill_speed": ["270", "600"],
-    "process_flow_support": ["standard", "high_flow"]
+    "process_flow_support": ["standard", "high_flow"],
+    "print_extruder_id": [
+        "1",
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ]
 }

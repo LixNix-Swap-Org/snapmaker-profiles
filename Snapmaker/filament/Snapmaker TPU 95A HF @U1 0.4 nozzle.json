@@ -59,5 +59,9 @@
         "0.4157"
     ],
     "enable_pressure_advance": ["0","1"],
-    "filament_z_hop_types": ["Slope Lift","Spiral Lift"]
+    "filament_z_hop_types": ["Slope Lift","Spiral Lift"],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ]
 }
