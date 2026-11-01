@@ -9,6 +9,8 @@
   ],
   "bottom_shell_layers": "4",
   "bottom_color_penetration_layers": "3",
+  "max_bridge_length": "0",
+  "raft_first_layer_expansion": "-1",
   "bridge_flow": "1",
   "initial_layer_line_width": "0.25",
   "initial_layer_print_height": "0.1",
