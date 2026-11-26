@@ -39,6 +39,7 @@
         "0.8"
     ],
     "filament_z_hop": [
+        "0.4",
         "0.4"
     ],
     "filament_z_hop_types": [
@@ -80,6 +81,7 @@
         "1.24"
     ],
     "filament_wipe_distance": [
+        "nil",
         "nil"
     ],
     "pellet_flow_coefficient": [
@@ -87,5 +89,9 @@
     ],
     "slow_down_layer_time": ["8"],
     "graphic_effect_plate_temp": ["0"],
-    "graphic_effect_plate_temp_initial_layer": ["0"]
+    "graphic_effect_plate_temp_initial_layer": ["0"],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ]
 }

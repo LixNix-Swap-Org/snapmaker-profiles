@@ -9,15 +9,18 @@
     "Snapmaker U1 (0.4 nozzle)"
   ],
   "enable_pressure_advance": [
+    "1",
     "1"
   ],
   "chamber_temperature": [
     "60"
   ],
   "complete_print_exhaust_fan_speed": [
+    "70",
     "70"
   ],
   "during_print_exhaust_fan_speed": [
+    "70",
     "70"
   ],
   "fan_max_speed": [
@@ -75,6 +78,7 @@
     "100"
   ],
   "filament_z_hop": [
+    "nil",
     "nil"
   ],
   "hot_plate_temp": [
@@ -102,6 +106,7 @@
     "Slope Lift"
   ],
   "activate_air_filtration": [
+    "1",
     "1"
   ],
   "filament_flow_ratio": [
@@ -129,5 +134,9 @@
   "slow_down_min_speed": [
     "20"
   ],
-  "filament_is_high_temperature": ["1"]
+  "filament_is_high_temperature": ["1"],
+  "filament_extruder_variant": [
+    "Direct Drive Standard",
+    "Direct Drive High Flow"
+  ]
 }
